@@ -1,6 +1,6 @@
-# test [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Yuval's README [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   ## Description 
-  test
+  This is a README for the project 
   ## Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,17 +9,17 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation 
-  test
+  The installation instructions are to download the file attached
   ## Usage 
-  test
+  The usage information is for the project
   ## License 
-  This project uses a [Apache 2.0](https://spdx.org/licenses/Apache-2.0.html) license
+  This project uses a [GNU GPLv3](https://spdx.org/licenses/GPL-3.0-or-later.html) license
   ## Contributing 
-  test
+  The contribution guidelines are for the project
   ## Tests
-  test
+  The test instructions are for you to download 
   ## Questions 
   - GitHub: yuval7994 Link to my [GitHub](https://www.github.com/yuval7994)
-  - Email: test
+  - Email: test@gmail.com
   
 
